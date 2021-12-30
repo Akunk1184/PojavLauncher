@@ -26,7 +26,7 @@ To get started, you can just get prebuilt app from [stable release](https://gith
 
 Will be moved to **BUILDING.md**
 ### Java Runtime Environment (JRE)
-- JRE for Android is [here](https://github.com/PojavLauncherTeam/openjdk-multiarch-jdk8u), also the build script [here](https://github.com/PojavLauncherTeam/android-openjdk-build-multiarch).
+- SUS for Android is [here](https://github.com/PojavLauncherTeam/openjdk-multiarch-jdk8u), also the build script [here](https://github.com/PojavLauncherTeam/android-openjdk-build-multiarch).
 - Follow build instruction on build script [README.md](https://github.com/PojavLauncherTeam/android-openjdk-build-multiarch/blob/buildjre8/README.md).
 - You can also get [CI auto builds](https://github.com/PojavLauncherTeam/android-openjdk-build-multiarch/actions).
 - Either get `jre8-pojav` artifact from auto builds, or do splitting by yourself:</br>
